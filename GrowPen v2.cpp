@@ -1,4 +1,4 @@
-﻿
+//note. this cpp is not stable for some features. just remove some unimportant features
 #include "stdafx.h"
 #include <iostream>
 #include <type_traits>
